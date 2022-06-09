@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
         "./src/covid19"
-    ]
+    ],
+    "python.pythonPath": "C:\\Anaconda3\\python.exe"
 }
